@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Next Greater Element I
+Daily Temperatures
 
 ---
 
