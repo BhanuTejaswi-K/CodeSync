@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-221-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-222-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-159-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-57-yellow)
+![Medium](https://img.shields.io/badge/Medium-58-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-5-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Daily Temperatures
+Online Stock Span
 
 ---
 
