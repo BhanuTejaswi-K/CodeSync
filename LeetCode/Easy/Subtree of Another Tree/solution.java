@@ -26,3 +26,4 @@ class Solution {
 
     }
 }
+//Not optimal,TC:O(n^2)
