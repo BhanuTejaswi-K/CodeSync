@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-228-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-229-blue)
 
-![Easy](https://img.shields.io/badge/Easy-162-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-163-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-61-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Balanced Binary Tree
+Invert Binary Tree
 
 ---
 
