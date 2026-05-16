@@ -26,13 +26,13 @@ Invert Binary Tree
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-0-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-64-blue)
 
-![Basic](https://img.shields.io/badge/Basic-undefined-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-24-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-0-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-30-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-0-yellow)
+![Medium](https://img.shields.io/badge/Medium-10-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
@@ -40,7 +40,7 @@ Invert Binary Tree
 
 ## 🔥 Latest GFG Problem
 
-None
+Sum Tree | Practice | GeeksforGeeks
 
 ---
 
