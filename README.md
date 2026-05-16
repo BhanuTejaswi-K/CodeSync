@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-225-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-227-blue)
 
-![Easy](https://img.shields.io/badge/Easy-159-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-161-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-61-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Decode String
+Diameter of Binary Tree
 
 ---
 
