@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-231-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-232-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-164-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-62-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-5-red)
+![Hard](https://img.shields.io/badge/Hard-6-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Path Sum II
+Binary Tree Maximum Path Sum
 
 ---
 
