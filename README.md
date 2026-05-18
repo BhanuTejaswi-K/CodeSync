@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-232-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-233-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-164-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-62-yellow)
+![Medium](https://img.shields.io/badge/Medium-63-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Binary Tree Maximum Path Sum
+Maximum Width of Binary Tree
 
 ---
 
