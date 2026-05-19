@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-237-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-238-blue)
 
-![Easy](https://img.shields.io/badge/Easy-165-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-166-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-65-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Range Sum of BST
+Minimum Absolute Difference in BST
 
 ---
 
