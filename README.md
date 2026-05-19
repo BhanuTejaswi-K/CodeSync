@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-234-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-237-blue)
 
-![Easy](https://img.shields.io/badge/Easy-164-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-165-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-63-yellow)
+![Medium](https://img.shields.io/badge/Medium-65-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Vertical Order Traversal of a Binary Tree
+Range Sum of BST
 
 ---
 
