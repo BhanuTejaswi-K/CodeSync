@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-238-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-239-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-166-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-65-yellow)
+![Medium](https://img.shields.io/badge/Medium-66-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Minimum Absolute Difference in BST
+Kth Smallest Element in a BST
 
 ---
 
