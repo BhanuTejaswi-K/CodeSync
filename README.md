@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-239-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-240-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-166-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-66-yellow)
+![Medium](https://img.shields.io/badge/Medium-67-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Kth Smallest Element in a BST
+Construct Binary Tree from Preorder and Inorder Traversal
 
 ---
 
