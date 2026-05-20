@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-243-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-244-blue)
 
-![Easy](https://img.shields.io/badge/Easy-166-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-167-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-70-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Design Add and Search Words Data Structure
+Array Prototype Last
 
 ---
 
