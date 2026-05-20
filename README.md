@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-241-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-242-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-166-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-68-yellow)
+![Medium](https://img.shields.io/badge/Medium-69-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Implement Trie (Prefix Tree)
+Replace Words
 
 ---
 
