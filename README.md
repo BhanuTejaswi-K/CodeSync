@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-244-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-245-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-167-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-70-yellow)
+![Medium](https://img.shields.io/badge/Medium-71-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Array Prototype Last
+Number of Islands
 
 ---
 
