@@ -2,25 +2,25 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-245-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-154-blue)
 
-![Easy](https://img.shields.io/badge/Easy-167-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-78-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-71-yellow)
+![Medium](https://img.shields.io/badge/Medium-70-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-7-red)
+![Hard](https://img.shields.io/badge/Hard-6-red)
 
 ---
 
 ## 👤 LeetCode User
 
-Bhanu_Tejaswi
+rsp_8106
 
 ---
 
 ## 🔥 Latest Solved Problem
 
-Number of Islands
+Jump Game
 
 ---
 
