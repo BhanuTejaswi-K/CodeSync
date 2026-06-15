@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-155-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-156-blue)
 
-![Easy](https://img.shields.io/badge/Easy-78-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-79-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-71-yellow)
 
@@ -20,7 +20,7 @@ rsp_8106
 
 ## 🔥 Latest Solved Problem
 
-Jump Game II
+Path Sum
 
 ---
 
