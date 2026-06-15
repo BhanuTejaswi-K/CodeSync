@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-156-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-157-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-79-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-71-yellow)
+![Medium](https://img.shields.io/badge/Medium-72-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-6-red)
 
@@ -20,7 +20,7 @@ rsp_8106
 
 ## 🔥 Latest Solved Problem
 
-Path Sum
+Path Sum II
 
 ---
 
