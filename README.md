@@ -2,25 +2,25 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-157-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-247-blue)
 
-![Easy](https://img.shields.io/badge/Easy-79-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-168-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-72-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-6-red)
+![Hard](https://img.shields.io/badge/Hard-7-red)
 
 ---
 
 ## 👤 LeetCode User
 
-rsp_8106
+Bhanu_Tejaswi
 
 ---
 
 ## 🔥 Latest Solved Problem
 
-Path Sum II
+Find the Highest Altitude
 
 ---
 
