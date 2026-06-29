@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-248-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-249-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-168-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-73-yellow)
+![Medium](https://img.shields.io/badge/Medium-74-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Number of Strings That Appear as Substrings in Word
+Path With Minimum Effort
 
 ---
 
