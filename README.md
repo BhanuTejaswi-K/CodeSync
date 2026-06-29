@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Rotting Oranges
+Number of Strings That Appear as Substrings in Word
 
 ---
 
