@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-249-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-251-blue)
 
-![Easy](https://img.shields.io/badge/Easy-168-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-169-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-74-yellow)
+![Medium](https://img.shields.io/badge/Medium-75-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-7-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Path With Minimum Effort
+Find if Path Exists in Graph
 
 ---
 
