@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Find if Path Exists in Graph
+Jump Game
 
 ---
 
