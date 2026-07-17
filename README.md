@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-251-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-253-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-169-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-75-yellow)
+![Medium](https://img.shields.io/badge/Medium-76-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-7-red)
+![Hard](https://img.shields.io/badge/Hard-8-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Jump Game
+Sorted GCD Pair Queries
 
 ---
 
