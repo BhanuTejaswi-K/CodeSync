@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-253-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-254-blue)
 
-![Easy](https://img.shields.io/badge/Easy-169-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-170-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-76-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Sorted GCD Pair Queries
+Shift 2D Grid
 
 ---
 
