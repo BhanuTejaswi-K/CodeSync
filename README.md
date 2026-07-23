@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-255-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-256-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-171-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-76-yellow)
+![Medium](https://img.shields.io/badge/Medium-77-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Remove Element
+Spiral Matrix
 
 ---
 
