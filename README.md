@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-259-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-260-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-171-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-80-yellow)
+![Medium](https://img.shields.io/badge/Medium-81-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Generate Parentheses
+Target Sum
 
 ---
 
