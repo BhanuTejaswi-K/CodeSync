@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-261-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-262-blue)
 
-![Easy](https://img.shields.io/badge/Easy-171-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-172-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-82-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Decode Ways
+Maximum Product of Two Digits
 
 ---
 
