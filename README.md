@@ -26,13 +26,13 @@ Maximum Product of Two Digits
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-65-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-66-blue)
 
 ![Basic](https://img.shields.io/badge/Basic-25-lightgrey)
 
 ![Easy](https://img.shields.io/badge/Easy-28-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-12-yellow)
+![Medium](https://img.shields.io/badge/Medium-13-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
@@ -40,7 +40,7 @@ Maximum Product of Two Digits
 
 ## 🔥 Latest GFG Problem
 
-Second Largest | Practice | GeeksforGeeks
+Rod Cutting | Practice | GeeksforGeeks
 
 ---
 
