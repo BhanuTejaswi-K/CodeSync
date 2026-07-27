@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-263-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-264-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-172-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-83-yellow)
+![Medium](https://img.shields.io/badge/Medium-84-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Minimum Path Sum
+Longest Common Subsequence
 
 ---
 
