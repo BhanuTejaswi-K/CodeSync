@@ -40,7 +40,7 @@ Maximum Product of Two Digits
 
 ## 🔥 Latest GFG Problem
 
-Knapsack with Duplicate Items | Practice | GeeksforGeeks
+Second Largest | Practice | GeeksforGeeks
 
 ---
 
