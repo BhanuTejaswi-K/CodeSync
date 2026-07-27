@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-262-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-263-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-172-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-82-yellow)
+![Medium](https://img.shields.io/badge/Medium-83-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-8-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Maximum Product of Two Digits
+Minimum Path Sum
 
 ---
 
