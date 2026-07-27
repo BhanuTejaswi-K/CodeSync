@@ -26,13 +26,13 @@ Maximum Product of Two Digits
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-64-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-65-blue)
 
-![Basic](https://img.shields.io/badge/Basic-24-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-25-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-30-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-28-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-10-yellow)
+![Medium](https://img.shields.io/badge/Medium-12-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-0-red)
 
@@ -40,7 +40,7 @@ Maximum Product of Two Digits
 
 ## 🔥 Latest GFG Problem
 
-Sum Tree | Practice | GeeksforGeeks
+Knapsack with Duplicate Items | Practice | GeeksforGeeks
 
 ---
 
