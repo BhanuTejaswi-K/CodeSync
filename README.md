@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-266-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-267-blue)
 
-![Easy](https://img.shields.io/badge/Easy-172-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-173-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-86-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Unique Paths II
+Maximum Product of Two Elements in an Array
 
 ---
 
