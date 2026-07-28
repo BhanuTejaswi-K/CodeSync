@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-270-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-271-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-173-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-87-yellow)
+![Medium](https://img.shields.io/badge/Medium-88-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-10-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Minimum Falling Path Sum II
+Smallest Palindromic Rearrangement I
 
 ---
 
