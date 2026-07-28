@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-271-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-272-blue)
 
-![Easy](https://img.shields.io/badge/Easy-173-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-174-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-88-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Smallest Palindromic Rearrangement I
+Min Cost Climbing Stairs
 
 ---
 
