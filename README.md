@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-268-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-269-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-173-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-86-yellow)
+![Medium](https://img.shields.io/badge/Medium-87-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-9-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Largest Rectangle in Histogram
+Minimum Falling Path Sum
 
 ---
 
