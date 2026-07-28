@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-267-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-268-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-173-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-86-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-8-red)
+![Hard](https://img.shields.io/badge/Hard-9-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Maximum Product of Two Elements in an Array
+Largest Rectangle in Histogram
 
 ---
 
