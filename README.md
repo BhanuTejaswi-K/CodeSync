@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-269-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-270-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-173-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-87-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-9-red)
+![Hard](https://img.shields.io/badge/Hard-10-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Minimum Falling Path Sum
+Minimum Falling Path Sum II
 
 ---
 
