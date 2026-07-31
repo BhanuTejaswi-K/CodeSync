@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-273-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-274-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-174-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-88-yellow)
+![Medium](https://img.shields.io/badge/Medium-89-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-11-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Dungeon Game
+Longest Increasing Subsequence
 
 ---
 
