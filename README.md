@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-275-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-276-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-174-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-90-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-11-red)
+![Hard](https://img.shields.io/badge/Hard-12-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Stone Game
+Stone Game III
 
 ---
 
