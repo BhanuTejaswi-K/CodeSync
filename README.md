@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-276-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-277-blue)
 
-![Easy](https://img.shields.io/badge/Easy-174-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-175-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-90-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Stone Game III
+Find Missing Elements
 
 ---
 
