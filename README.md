@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-280-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-281-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-175-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-92-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-13-red)
+![Hard](https://img.shields.io/badge/Hard-14-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Find the Duplicate Number
+Trapping Rain Water
 
 ---
 
