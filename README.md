@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-279-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-280-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-175-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-91-yellow)
+![Medium](https://img.shields.io/badge/Medium-92-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-13-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Reverse String
+Two Sum II - Input Array Is Sorted
 
 ---
 
