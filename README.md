@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Two Sum II - Input Array Is Sorted
+Find the Duplicate Number
 
 ---
 
