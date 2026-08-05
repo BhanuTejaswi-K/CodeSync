@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-277-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-279-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-175-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-90-yellow)
+![Medium](https://img.shields.io/badge/Medium-91-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-12-red)
+![Hard](https://img.shields.io/badge/Hard-13-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Move Zeroes
+Reverse String
 
 ---
 
