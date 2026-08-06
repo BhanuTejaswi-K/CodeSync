@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-281-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-283-blue)
 
-![Easy](https://img.shields.io/badge/Easy-175-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-176-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-92-yellow)
+![Medium](https://img.shields.io/badge/Medium-93-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-14-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Trapping Rain Water
+Sort Colors
 
 ---
 
