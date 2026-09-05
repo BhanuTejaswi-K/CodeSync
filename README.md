@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-285-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-287-blue)
 
-![Easy](https://img.shields.io/badge/Easy-177-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-178-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-93-yellow)
+![Medium](https://img.shields.io/badge/Medium-94-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-15-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Construct Binary Tree from Preorder and Inorder Traversal
+Next Permutation
 
 ---
 
