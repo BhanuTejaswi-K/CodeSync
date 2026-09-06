@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-287-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-288-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-178-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-94-yellow)
+![Medium](https://img.shields.io/badge/Medium-95-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-15-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Next Permutation
+Rotate Array
 
 ---
 
