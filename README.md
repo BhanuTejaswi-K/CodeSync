@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Rotate Array
+Range Sum Query - Immutable
 
 ---
 
