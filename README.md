@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-288-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-289-blue)
 
-![Easy](https://img.shields.io/badge/Easy-178-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-179-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-95-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Range Sum Query - Immutable
+Find the Middle Index in Array
 
 ---
 
