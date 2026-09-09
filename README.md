@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-289-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-290-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-179-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-95-yellow)
+![Medium](https://img.shields.io/badge/Medium-96-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-15-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Find the Middle Index in Array
+Contiguous Array
 
 ---
 
