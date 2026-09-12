@@ -26,21 +26,21 @@ Contiguous Array
 
 ## 🟢 GeeksForGeeks Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-66-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-67-blue)
 
-![Basic](https://img.shields.io/badge/Basic-25-lightgrey)
+![Basic](https://img.shields.io/badge/Basic-29-lightgrey)
 
-![Easy](https://img.shields.io/badge/Easy-28-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-24-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-13-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-0-red)
+![Hard](https://img.shields.io/badge/Hard-1-red)
 
 ---
 
 ## 🔥 Latest GFG Problem
 
-Rod Cutting | Practice | GeeksforGeeks
+While Loop | Practice | GeeksforGeeks
 
 ---
 
