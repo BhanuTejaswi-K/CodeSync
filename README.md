@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Longest Palindromic Substring
+String to Integer (atoi)
 
 ---
 
