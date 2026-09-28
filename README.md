@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-292-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-297-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-179-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-98-yellow)
+![Medium](https://img.shields.io/badge/Medium-101-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-15-red)
+![Hard](https://img.shields.io/badge/Hard-17-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-String to Integer (atoi)
+Regular Expression Matching
 
 ---
 
