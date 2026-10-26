@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-297-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-301-blue)
 
-![Easy](https://img.shields.io/badge/Easy-179-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-180-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-101-yellow)
+![Medium](https://img.shields.io/badge/Medium-104-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-17-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Regular Expression Matching
+Valid Anagram
 
 ---
 
