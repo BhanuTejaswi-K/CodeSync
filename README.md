@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-303-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-304-blue)
 
-![Easy](https://img.shields.io/badge/Easy-181-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-182-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-105-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Return Length of Arguments Passed
+Add Two Promises
 
 ---
 
