@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-302-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-303-blue)
 
-![Easy](https://img.shields.io/badge/Easy-180-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-181-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-105-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-3Sum Closest
+Return Length of Arguments Passed
 
 ---
 
