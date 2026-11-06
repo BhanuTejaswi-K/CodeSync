@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-306-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-307-blue)
 
-![Easy](https://img.shields.io/badge/Easy-184-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-185-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-105-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Sleep
+Array Reduce Transformation
 
 ---
 
