@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-307-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-308-blue)
 
-![Easy](https://img.shields.io/badge/Easy-185-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-186-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-105-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Array Reduce Transformation
+Filter Elements from Array
 
 ---
 
