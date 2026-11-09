@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-308-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-310-blue)
 
-![Easy](https://img.shields.io/badge/Easy-186-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-188-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-105-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Filter Elements from Array
+Mirror Distance of an Integer
 
 ---
 
