@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Mirror Distance of an Integer
+Two Sum
 
 ---
 
