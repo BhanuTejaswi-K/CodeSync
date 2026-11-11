@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Valid Palindrome
+Move Zeroes
 
 ---
 
