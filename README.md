@@ -2,9 +2,9 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-310-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-311-blue)
 
-![Easy](https://img.shields.io/badge/Easy-188-brightgreen)
+![Easy](https://img.shields.io/badge/Easy-189-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-105-yellow)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Move Zeroes
+Find the Maximum Achievable Number
 
 ---
 
