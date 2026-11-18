@@ -2,11 +2,11 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-311-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-312-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-189-brightgreen)
 
-![Medium](https://img.shields.io/badge/Medium-105-yellow)
+![Medium](https://img.shields.io/badge/Medium-106-yellow)
 
 ![Hard](https://img.shields.io/badge/Hard-17-red)
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Find the Maximum Achievable Number
+Minimum Number of Changes to Make Binary String Beautiful
 
 ---
 
