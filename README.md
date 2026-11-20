@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Minimum Number of Changes to Make Binary String Beautiful
+String to Integer (atoi)
 
 ---
 
