@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-String to Integer (atoi)
+Factorial Trailing Zeroes
 
 ---
 
