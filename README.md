@@ -2,13 +2,13 @@
 
 ## 🟢 LeetCode Stats
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-312-blue)
+![Total Solved](https://img.shields.io/badge/Total_Solved-313-blue)
 
 ![Easy](https://img.shields.io/badge/Easy-189-brightgreen)
 
 ![Medium](https://img.shields.io/badge/Medium-106-yellow)
 
-![Hard](https://img.shields.io/badge/Hard-17-red)
+![Hard](https://img.shields.io/badge/Hard-18-red)
 
 ---
 
@@ -20,7 +20,7 @@ Bhanu_Tejaswi
 
 ## 🔥 Latest Solved Problem
 
-Factorial Trailing Zeroes
+Merge k Sorted Lists
 
 ---
 
